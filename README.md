@@ -6,6 +6,10 @@ some links and resources for AngularJS and Angular
 
 ## Angular
 
+### Router
+
+* Getting started with Angular's Router - https://toddmotto.com/angular-component-router
+
 ### Testing
 
 * Testing Http Services in Angular 2 with Jasmine (RC1+) - http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/
