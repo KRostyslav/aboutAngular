@@ -6,6 +6,10 @@ some links and resources for AngularJS and Angular
 
 ## Angular
 
+### Video
+
+* Learn Angular 2 With Me (Lyrad Digital) - https://www.youtube.com/playlist?list=PLsS7rcLJIvNN9nm_sEz-F005-JAsyHXJg
+
 ### Router
 
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
