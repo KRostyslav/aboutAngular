@@ -6,6 +6,8 @@ some links and resources for AngularJS and Angular
 
 ## Angular
 
+*Angular, TS, Firebase on CodeLabs - https://codelabs.developers.google.com/?cat=Web
+
 ### Video
 
 * Learn Angular 2 With Me (Lyrad Digital) - https://www.youtube.com/playlist?list=PLsS7rcLJIvNN9nm_sEz-F005-JAsyHXJg
