@@ -16,6 +16,14 @@ some links and resources for AngularJS and Angular
 
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
 
+### Promise
+
+* AngularJS Promises - The Definitive Guide - http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
+* Promises and design patterns in AngularJS - http://blog.xebia.com/promises-and-design-patterns-in-angularjs/
+* Promises - https://thinkster.io/a-better-way-to-learn-angularjs/promises
+* Using AngularJS Promises - http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/
+* The AngularJs Promise Anti-Pattern That Makes Me Cry - http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
+
 ### Testing
 
 * Testing Http Services in Angular 2 with Jasmine (RC1+) - http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/
