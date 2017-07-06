@@ -4,6 +4,14 @@ some links and resources for AngularJS and Angular
 
 ## AngularJS
 
+### Promise
+
+* AngularJS Promises - The Definitive Guide - http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
+* Promises and design patterns in AngularJS - http://blog.xebia.com/promises-and-design-patterns-in-angularjs/
+* Promises - https://thinkster.io/a-better-way-to-learn-angularjs/promises
+* Using AngularJS Promises - http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/
+* The AngularJs Promise Anti-Pattern That Makes Me Cry - http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
+
 ## Angular
 
 * Angular, TS, Firebase on CodeLabs - https://codelabs.developers.google.com/?cat=Web
@@ -15,14 +23,6 @@ some links and resources for AngularJS and Angular
 ### Router
 
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
-
-### Promise
-
-* AngularJS Promises - The Definitive Guide - http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
-* Promises and design patterns in AngularJS - http://blog.xebia.com/promises-and-design-patterns-in-angularjs/
-* Promises - https://thinkster.io/a-better-way-to-learn-angularjs/promises
-* Using AngularJS Promises - http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/
-* The AngularJs Promise Anti-Pattern That Makes Me Cry - http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
 
 ### Testing
 
