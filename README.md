@@ -12,6 +12,12 @@ some links and resources for AngularJS and Angular
 * Using AngularJS Promises - http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/
 * The AngularJs Promise Anti-Pattern That Makes Me Cry - http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
 
+### Testing
+
+* Testing - https://angular.io/guide/testing
+* Testing AngularJS with Jasmine and Karma (Part 1) - https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+* Unit Testing - https://docs.angularjs.org/guide/unit-testing
+
 ## Angular
 
 * Angular, TS, Firebase on CodeLabs - https://codelabs.developers.google.com/?cat=Web
