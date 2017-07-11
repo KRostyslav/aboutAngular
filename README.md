@@ -11,6 +11,7 @@ some links and resources for AngularJS and Angular
 * Promises - https://thinkster.io/a-better-way-to-learn-angularjs/promises
 * Using AngularJS Promises - http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/
 * The AngularJs Promise Anti-Pattern That Makes Me Cry - http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
+* Working With Promises in AngularJS Services - https://appendto.com/2016/02/working-promises-angularjs-services/
 
 ### Testing
 
