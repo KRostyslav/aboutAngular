@@ -31,6 +31,10 @@ some links and resources for AngularJS and Angular
 
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
 
+### DEPENDENCY INJECTION
+
+* DEPENDENCY INJECTION IN ANGULAR - https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
+
 ### Testing
 
 * Testing Http Services in Angular 2 with Jasmine (RC1+) - http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/
