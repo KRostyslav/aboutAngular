@@ -31,6 +31,10 @@ some links and resources for AngularJS and Angular
 
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
 
+### HTTP
+
+* Getting Started With The Angular HTTP Client - https://www.techiediaries.com/angular-http-client/
+
 ### DEPENDENCY INJECTION
 
 * DEPENDENCY INJECTION IN ANGULAR - https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
