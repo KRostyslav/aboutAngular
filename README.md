@@ -29,6 +29,8 @@ some links and resources for AngularJS and Angular
 
 ### Router
 
+* Routeing - https://codecraft.tv/courses/angular/routing/overview/
+* The 7-step process of Angular router navigation - https://jvandemo.com/the-7-step-process-of-angular-router-navigation/
 * Getting started with Angular's Router - https://toddmotto.com/angular-component-router
 
 ### HTTP
